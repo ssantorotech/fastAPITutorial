@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+fastapi-users[sqlalchemy]
+sqlalchemy
+aiosqlite
+python-multipart
+python-dotenv
+imagekitio
+streamlit
+requests
